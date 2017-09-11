@@ -7,6 +7,6 @@ class Hello {
    }
 
    public static int callSign() {
-      return 5;	
+      return 50;	
    }
 }
