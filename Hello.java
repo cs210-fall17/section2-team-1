@@ -7,6 +7,8 @@ ass Hello {
    }
 
    public static int callSign() {
+<<<<<<< HEAD
       return 150;	
+>>>>>>> 41e69ad39ef8c06691991ae26302fa9aaa1b21ad
    }
 }
