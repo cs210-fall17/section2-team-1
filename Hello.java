@@ -7,6 +7,6 @@ ass Hello {
    }
 
    public static int callSign() {
-      return 50;	
+      return 5;	
    }
 }
